@@ -1,0 +1,12 @@
+name = "stream_test"
+version = "0.1.0"
+license = "license"
+author = "soonsimple"
+maintainer = "sun_chengbo@126.com"
+copyright = "Copyright 2022, soonsimple"
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+[install]
+library = false
